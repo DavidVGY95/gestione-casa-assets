@@ -1,0 +1,23 @@
+{
+  "name": "Gestione Casa",
+  "short_name: "Gestione Casa",
+  "start_url": "https://google.com",
+  "scope": "https://google.com",
+  "display": "standalone",
+  "background_color": "#69ad84",
+  "theme_color": "#69ad84",
+  "icons": [
+    {
+      "src": "https://githubusercontent.com",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://githubusercontent.com",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
